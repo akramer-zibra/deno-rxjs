@@ -1,4 +1,4 @@
-import process from "node:node:process";
+import process from "node:process";
 import { Subscription } from '../Subscription.ts';
 
 import { MonoTypeOperatorFunction, ObservableInput } from '../types.ts';

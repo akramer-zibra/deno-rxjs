@@ -1,4 +1,4 @@
-import process from "node:node:process";
+import process from "node:process";
 import { OperatorFunction, ObservableInput, ObservedValueOf } from '../types.ts';
 import { exhaustMap } from './exhaustMap.ts';
 import { identity } from '../util/identity.ts';

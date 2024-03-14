@@ -1,4 +1,4 @@
-import process from "node:node:process";
+import process from "node:process";
 import { asyncScheduler } from '../scheduler/async.ts';
 import { audit } from './audit.ts';
 import { timer } from '../observable/timer.ts';

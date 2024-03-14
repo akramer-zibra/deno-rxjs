@@ -1,4 +1,4 @@
-import process from "node:node:process";
+import process from "node:process";
 import { OperatorFunction } from '../types.ts';
 import { operate } from '../util/lift.ts';
 import { scanInternals } from './scanInternals.ts';

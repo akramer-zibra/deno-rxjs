@@ -1,4 +1,4 @@
-import process from "node:node:process";
+import process from "node:process";
 import { Observable } from '../Observable.ts';
 import { identity } from '../util/identity.ts';
 import { ObservableInput, SchedulerLike } from '../types.ts';

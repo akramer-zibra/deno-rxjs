@@ -1,4 +1,4 @@
-import process from "node:node:process";
+import process from "node:process";
 import { config } from '../config.ts';
 import { timeoutProvider } from '../scheduler/timeoutProvider.ts';
 

@@ -1,4 +1,4 @@
-import process from "node:node:process";
+import process from "node:process";
 import { Subscriber } from '../Subscriber.ts';
 import { ObservableInput, OperatorFunction } from '../types.ts';
 import { operate } from '../util/lift.ts';

@@ -1,4 +1,4 @@
-import process from "node:node:process";
+import process from "node:process";
 import { asyncScheduler } from '../scheduler/async.ts';
 import { throttle, ThrottleConfig } from './throttle.ts';
 import { MonoTypeOperatorFunction, SchedulerLike } from '../types.ts';
